@@ -12,6 +12,7 @@ body {
 }
 
 main {
+    margin: 1vh;
   width: 50vw;
   padding: 2em;
 }
